@@ -1,23 +1,23 @@
-# Contributing to NASA Space Apps Navigator
+# NASA Space Apps Navigator'a Katkıda Bulunma
 
-Thank you for your interest in contributing to the NASA Space Apps Navigator project! We welcome all contributions that help improve space data exploration and visualization.
+NASA Space Apps Navigator projesine katkıda bulunmakla ilgilendiğiniz için teşekkür ederiz! Uzay verilerinin keşfi ve görselleştirilmesini iyileştirmeye yardımcı olacak tüm katkıları memnuniyetle karşılıyoruz.
 
-## How to Contribute
+## Nasıl Katkıda Bulunabilirsiniz?
 
-1.  **Fork the Repository**: Create a personal fork of the project on GitHub.
-2.  **Clone the Fork**: Clone your fork to your local machine.
-3.  **Create a New Branch**: Use a descriptive name for your branch (e.g., `feature/awesome-new-tool` or `fix/data-parsing-issue`).
-4.  **Make Your Changes**: Write clean, documented, and well-tested code.
-5.  **Commit Your Changes**: Use clear and concise commit messages.
-6.  **Push to GitHub**: Push your changes to your fork.
-7.  **Submit a Pull Request**: Provide a detailed description of your changes and why they are necessary.
+1.  **Depoyu Forklayın**: Projenin GitHub'daki kişisel bir kopyasını oluşturun.
+2.  **Fork'u Klonlayın**: Fork'unuzu yerel makinenize klonlayın.
+3.  **Yeni Bir Branch Oluşturun**: Branch'iniz için açıklayıcı bir ad kullanın (örneğin, `feature/harika-yeni-araç` veya `fix/veri-ayristirma-hatasi`).
+4.  **Değişikliklerinizi Yapın**: Temiz, dökümante edilmiş ve iyi test edilmiş kod yazın.
+5.  **Değişikliklerinizi Commit Edin**: Net ve özlü commit mesajları kullanın.
+6.  **GitHub'a Pushlayın**: Değişikliklerinizi fork'unuza pushlayın.
+7.  **Pull Request Gönderin**: Değişikliklerinizin ayrıntılı bir açıklamasını ve neden gerekli olduklarını belirtin.
 
-## Style Guidelines
+## Stil Rehberi
 
-*   Follow standard coding practices for the language you are using.
-*   Ensure all new features are accompanied by documentation.
-*   Keep your commits atomic and focused.
+*   Kullandığınız dil için standart kodlama uygulamalarını takip edin.
+*   Tüm yeni özelliklerin dökümante edildiğinden emin olun.
+*   Commit'lerinizi atomik ve odaklanmış tutun.
 
-## Feedback
+## Geri Bildirim
 
-If you find a bug or have a feature request, please open an issue in the repository. We appreciate your feedback!
+Bir hata bulursanız veya bir özellik isteğiniz varsa, lütfen depoda bir issue açın. Geri bildirimleriniz bizim için değerlidir!
